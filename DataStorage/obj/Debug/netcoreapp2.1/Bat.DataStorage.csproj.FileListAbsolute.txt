@@ -1,0 +1,12 @@
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\DataStorage\bin\Debug\netcoreapp2.1\Bat.DataStorage.deps.json
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\DataStorage\bin\Debug\netcoreapp2.1\Bat.DataStorage.dll
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\DataStorage\bin\Debug\netcoreapp2.1\Bat.DataStorage.pdb
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\DataStorage\obj\Debug\netcoreapp2.1\Bat.DataStorage.csproj.CoreCompileInputs.cache
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\DataStorage\obj\Debug\netcoreapp2.1\Bat.DataStorage.AssemblyInfoInputs.cache
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\DataStorage\obj\Debug\netcoreapp2.1\Bat.DataStorage.AssemblyInfo.cs
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\DataStorage\obj\Debug\netcoreapp2.1\Bat.DataStorage.dll
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\DataStorage\obj\Debug\netcoreapp2.1\Bat.DataStorage.pdb
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\DataStorage\obj\Debug\netcoreapp2.1\Bat.DataStorage.csprojAssemblyReference.cache
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\DataStorage\bin\Debug\netcoreapp2.1\Bat.Models.dll
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\DataStorage\bin\Debug\netcoreapp2.1\Bat.Models.pdb
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\DataStorage\obj\Debug\netcoreapp2.1\Bat.DataStorage.csproj.CopyComplete

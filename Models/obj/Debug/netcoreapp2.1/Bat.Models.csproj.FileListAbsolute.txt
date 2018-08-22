@@ -1,0 +1,9 @@
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\Models\bin\Debug\netcoreapp2.1\Bat.Models.deps.json
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\Models\bin\Debug\netcoreapp2.1\Bat.Models.dll
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\Models\bin\Debug\netcoreapp2.1\Bat.Models.pdb
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\Models\obj\Debug\netcoreapp2.1\Bat.Models.csproj.CoreCompileInputs.cache
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\Models\obj\Debug\netcoreapp2.1\Bat.Models.AssemblyInfoInputs.cache
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\Models\obj\Debug\netcoreapp2.1\Bat.Models.AssemblyInfo.cs
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\Models\obj\Debug\netcoreapp2.1\Bat.Models.dll
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\Models\obj\Debug\netcoreapp2.1\Bat.Models.pdb
+c:\users\mykhailo_sutulin\source\repos\BatterflyApi\Models\obj\Debug\netcoreapp2.1\Bat.Models.csprojAssemblyReference.cache
